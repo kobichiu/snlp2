@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Word2Vec or large binary files
+*.bin
+*.gz
+*.kv
+
+.gitattributes
